@@ -1,0 +1,7 @@
+{
+  "name": "jumio-ionic-demo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
