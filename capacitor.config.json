@@ -1,13 +1,8 @@
 {
-  "appId": "io.ionic.starter",
-  "appName": "jumio-ionic-demo",
+  "appId": "digital.zen.jumiodemo",
+  "appName": "Jumio Demo",
   "bundledWebRuntime": false,
   "npmClient": "npm",
   "webDir": "www",
-  "plugins": {
-    "SplashScreen": {
-      "launchShowDuration": 0
-    }
-  },
   "cordova": {}
 }
